@@ -1,0 +1,66 @@
+.request-a-ride-now {
+  font-size: 35px;
+  font-family: "Roboto";
+  margin-top: 0;
+}
+
+.enter-pickup-location {
+  display: block;
+  border: none;
+  background-color: #F0F0F0;
+  margin-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 150px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  font-size: 15px;
+}
+
+.enter-destination {
+  display: block;
+  border: none;
+  background-color: #F0F0F0;
+  padding-left: 15px;
+  padding-right: 150px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-bottom: 35px;
+  font-size: 15px;
+}
+
+.request-now-button {
+  font-size: 15px;
+  padding: 15px 20px;
+  border: none;
+  color: white;
+  background-color: black;
+  font-family: Arial;
+  cursor: pointer;
+  transition: opacity 150ms;
+}
+
+.request-now-button:hover {
+  opacity: 0.8;
+}
+
+.request-now-button:active {
+  opacity: 0.6;
+}
+
+.schedule-for-later-button {
+  font-size: 15px;
+  padding: 15px 20px;
+  margin-left: 15px;
+  border: none;
+  font-family: Arial;
+  cursor: pointer;
+  transition: opacity 150ms;
+}
+
+.schedule-for-later-button:hover {
+  opacity: 0.8;
+}
+
+.schedule-for-later-button:active {
+  opacity: 0.6;
+}
